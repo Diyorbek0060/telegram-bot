@@ -1,2 +1,1 @@
-aiogram
-youtube_dl
+pip install -r requirements.txt
